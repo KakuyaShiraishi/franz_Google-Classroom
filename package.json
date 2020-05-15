@@ -1,0 +1,13 @@
+{
+  "id": "classroom",
+  "name": "Google Classroom",
+  "version": "0.0.1",
+  "description": "Google Classroom for Franz",
+  "main": "index.js",
+  "author": "Kakuya Shiraishi <taketori7616@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://classroom.google.com/u/0/h?hl=ja",
+    "hasNotificationSound": true
+  }
+}
